@@ -1,2 +1,2 @@
-# Role-call-for-Android
-A role call for Android  一个随机点名装置
+# Role-call-prize-for-Android
+A role call prize for Android  一个随机抽奖装置
